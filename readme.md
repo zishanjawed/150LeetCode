@@ -46,14 +46,14 @@
       <td>Easy</td>
       <td>🟢</td>
       <td>✅</td>
-      <td><a href="https://leetcode.com/problems/contains-duplicate/description/">Link</a></td>
+      <td><a href="https://leetcode.com/problems/contains-duplicate/description/" target="_blank">Link</a></td>
     </tr>
     <tr>
       <td>242. Valid Anagram</td>
       <td>Easy</td>
       <td>🟢</td>
       <td>✅</td>
-      <td><a href="https://leetcode.com/problems/valid-anagram/description/">Link</a></td>
+      <td><a href="https://leetcode.com/problems/valid-anagram/description/" target="_blank">Link</a></td>
     </tr>
     <!-- <tr>
       <td>Candy</td>
